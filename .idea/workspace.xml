@@ -7,10 +7,9 @@
     <list default="true" id="d2935575-9f08-4ac0-8e95-af8fba73f801" name="Changes" comment="11">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/city.txt" beforeDir="false" afterPath="$PROJECT_DIR$/city.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/weatherg/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/weatherg/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/weatherg/transport/OpenWeatherService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/weatherg/transport/OpenWeatherService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/weatherg/transport/StorageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/weatherg/transport/StorageService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/weatherg/ui/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/weatherg/ui/MainController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/weatherg/data/WeatherBundle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/weatherg/data/WeatherBundle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/weatherg/data/WeatherDay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/weatherg/data/WeatherDay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/weatherg/ui/WelcomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/weatherg/ui/WelcomeController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,7 +166,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734858344539</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="11">
+      <option name="closed" value="true" />
+      <created>1734859312019</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1734859312019</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,5 +187,6 @@
     <MESSAGE value="done3" />
     <MESSAGE value="11" />
     <option name="LAST_COMMIT_MESSAGE" value="11" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
