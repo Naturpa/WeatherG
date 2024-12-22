@@ -29,7 +29,6 @@ public class OpenWeatherService {
     // Эндпоинт для геокодирования (получения координат по названию города)
     // %s используется для подстановки названия города
     private static final String GeocodingEndpoint = "/geo/1.0/direct?q=%s,,RU&limit=5&appid=" + Env.API_KEY;
-
     /*
     * Получает список GeocodingDTO (объектов с информацией о координатах) по названию города
      * @param name Название города

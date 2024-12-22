@@ -7,7 +7,6 @@ import java.io.IOException;
 import java.util.Arrays;
 
 public class StorageService {
-
     /*
      * Сохраняет название города в файл "city.txt".
      * @param city Название города для сохранения.

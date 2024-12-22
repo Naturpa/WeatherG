@@ -36,7 +36,7 @@ public class Main extends Application {
         stage.show();
     }
 
-     /*
+    /*
      * Метод main, который является точкой входа в приложение.
      * @param args Аргументы командной строки.
      */

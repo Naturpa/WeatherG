@@ -100,7 +100,6 @@ public class MainController {
         }).start();
     }
 
-
     /*
      * Метод для обновления UI с текущей погодой.
      * Выполняет обновление в UI потоке с помощью Platform.runLater.
