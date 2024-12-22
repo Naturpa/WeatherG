@@ -12,6 +12,7 @@ import java.io.IOException;
 public class Main extends Application {
     // Создаем логгер для записи информации о работе приложения
     private static final Logger logger = LoggerFactory.getLogger(Main.class);
+
      /*
      * Метод start, который вызывается при запуске приложения.
      * @param stage Главное окно приложения.

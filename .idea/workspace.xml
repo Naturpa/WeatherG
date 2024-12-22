@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2935575-9f08-4ac0-8e95-af8fba73f801" name="Changes" comment="done3">
+    <list default="true" id="d2935575-9f08-4ac0-8e95-af8fba73f801" name="Changes" comment="11">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/weatherg/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/weatherg/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/weatherg/transport/OpenWeatherService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/weatherg/transport/OpenWeatherService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/weatherg/transport/StorageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/weatherg/transport/StorageService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/weatherg/ui/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/weatherg/ui/MainController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,7 +150,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734801230988</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="done3">
+      <option name="closed" value="true" />
+      <created>1734857942822</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1734857942822</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,6 +169,7 @@
     <MESSAGE value="done" />
     <MESSAGE value="done2" />
     <MESSAGE value="done3" />
-    <option name="LAST_COMMIT_MESSAGE" value="done3" />
+    <MESSAGE value="11" />
+    <option name="LAST_COMMIT_MESSAGE" value="11" />
   </component>
 </project>
